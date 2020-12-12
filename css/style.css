@@ -17,3 +17,9 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 }
+
+#container {
+	background: black;
+	width: 424px;
+	color: white;
+}
