@@ -23,3 +23,15 @@ body {
 	width: 424px;
 	color: white;
 }
+h1 {
+	font-size: 80px;
+}
+
+h2 {
+	background: rgb(72, 138, 179);
+	color: rgb(231, 222, 222);
+}
+
+a {
+	color: lightseagreen;
+}
